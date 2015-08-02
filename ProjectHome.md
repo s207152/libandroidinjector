@@ -1,0 +1,1 @@
+libandroid\_injector is a toolkit to inject your native code to other process on android
